@@ -2,9 +2,9 @@
 the frontend for the machine learning model
 
 
-## Setup & Installtion
+## Setup & Installation
 
-Make sure you have the latest version of Python installed.
+Make sure you have the latest version of Python installed, and the machine learning file (named final mode.h5) placed in the root directory of the project
 
 ```bash
 git clone <repo-url>

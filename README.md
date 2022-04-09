@@ -1,5 +1,5 @@
-# deepX-flask-frontend
-the frontend for the machine learning model
+# deepX-flask-wweb app
+The web application part of the machine learning project
 
 
 ## Setup & Installation
